@@ -1,0 +1,2 @@
+FROM ubuntu:latest
+ENV MYSQL_DATABASE DOCKERDB

@@ -1,0 +1,8 @@
+// Info https://containers.dev/implementors/json_reference/
+{
+	//	name of the dev container
+		"name": "pycharm-container",
+	//	Or use a Dockerfile here, more info: https://containers.dev/guide/dockerfile
+		"image":  "docker.io/python:latest"
+	
+}
